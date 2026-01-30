@@ -1,0 +1,20 @@
+# Blockchain Project
+
+## Introduction
+This project demonstrates a simple blockchain smart contract.
+It stores and retrieves numbers securely.
+
+## Features
+- Store a number on the blockchain
+- Retrieve stored data
+- Emit events when data changes
+
+## How It Works
+The smart contract is written in Solidity.
+It runs on the Ethereum blockchain.
+
+### Smart Contract Logic
+The contract uses a constructor to initialize values.
+
+## Conclusion
+This project is beginner-friendly and easy to understand.
